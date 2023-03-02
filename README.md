@@ -3,6 +3,14 @@
 ## Image Recognition (이미지 인식)
 - CNN (Convolutional Neural Network)
   - [이론과 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/Image_CNN.ipynb)
+- ResNet
+- GAN
+- GAN 변형~~
 
 ## Natural Language Processing (자연어 처리)
 - Transformer
+  - 이론과 TensorFlow를 이용한 코드 실습
+  - PyTorch를 이용한 코드 실습
+- BERT
+- GPT2
+- ChatGPT API
