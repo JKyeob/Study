@@ -9,7 +9,7 @@
 
 ## Natural Language Processing (자연어 처리)
 - Transformer
-  - 이론과 TensorFlow를 이용한 코드 실습
+  - [이론과 TensorFlow를 이용한 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_Transformer.ipynb)
   - PyTorch를 이용한 코드 실습
 - BERT
 - GPT2
