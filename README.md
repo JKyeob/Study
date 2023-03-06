@@ -9,6 +9,8 @@
 ## Natural Language Processing (자연어 처리)
 - RNN
   - [이론과 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_RNN.ipynb)
+- LSTM & GRU
+  - [이론과 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/LSTM%26GRU.ipynb)
 - Transformer
   - [이론과 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_Transformer.ipynb)
 - BERT
