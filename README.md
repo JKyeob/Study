@@ -7,8 +7,10 @@
 - GAN
 
 ## Natural Language Processing (자연어 처리)
+- RNN
+  - [이론과 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_RNN.ipynb)
 - Transformer
-  - [이론과 TensorFlow를 이용한 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_Transformer.ipynb)
+  - [이론과 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_Transformer.ipynb)
 - BERT
   - [이론](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_BERT.ipynb)
 - GPT
