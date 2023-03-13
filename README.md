@@ -13,3 +13,5 @@
   - [이론과 코드 실습](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_Transformer.ipynb)
 - BERT
   - [이론](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_BERT.ipynb)
+- GPT-2
+  - [이론](https://github.com/JKyeob/deeplearning_study_practice/blob/main/NLP_GPT-2.ipynb)
